@@ -1,4 +1,4 @@
-# Render Enging in js
+# Render Engine in js
 
 This code is from the book "Computer Graphics from Scratch" from Gabriel Gambetta.
 The book can be found for free at: https://gabrielgambetta.com/computer-graphics-from-scratch/
